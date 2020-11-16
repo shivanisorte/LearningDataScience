@@ -1,6 +1,6 @@
 # LearningDataScience
 
-## Description
+### Question Description
 So, where are we droppin' boys and girls?
 Battle Royale-style video games have taken the world by storm. 100 players are dropped onto an island
 empty-handed and must explore, scavenge, and eliminate other players until only one is left standing, all
@@ -72,4 +72,4 @@ teamKills, roadKills.
 22. Take a sample of size 50 from the column damageDealt for 100 times and calculate its mean. Plot
 it on a histogram and comment on its distribution.
 
-### ANSWER - IN THE FOLDER NAMED PUBG DATASET
+#### ANSWER - IN THE FOLDER NAMED PUBG DATASET
